@@ -34,8 +34,8 @@ contrail_configuration:
 
 global_configuration:
  CONTAINER_REGISTRY: hub.juniper.net/contrail
- CONTAINER_REGISTRY_USERNAME: JNPR-FieldUser3
- CONTAINER_REGISTRY_PASSWORD: "E6Ti-V_GhU0yH#umLanQ"
+ CONTAINER_REGISTRY_USERNAME: your_username
+ CONTAINER_REGISTRY_PASSWORD: your-password
 
 
 kolla_config:
