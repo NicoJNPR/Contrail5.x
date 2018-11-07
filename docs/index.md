@@ -12,3 +12,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+![Screenshot](img/Screen%20Shot%202018-11-07%20at%2008.47.40.png)
+
+
