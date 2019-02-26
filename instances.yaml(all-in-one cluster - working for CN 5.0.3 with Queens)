@@ -23,6 +23,7 @@ instances:
 contrail_configuration:
   CLOUD_ORCHESTRATOR: openstack
   OPENSTACK_VERSION: queens
+  AAA_MODE: rbac
   CONTRAIL_CONTAINER_TAG: 5.0.2-0.360-queens
   VROUTER_GATEWAY: 172.30.109.1
   PHYSICAL_INTERFACE: ens160
